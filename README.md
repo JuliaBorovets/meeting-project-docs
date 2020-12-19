@@ -54,3 +54,6 @@
 
 ## Timeline:
 ![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/timeline.jpg)
+
+## База даних:
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/er.jpg)
