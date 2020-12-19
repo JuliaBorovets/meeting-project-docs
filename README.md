@@ -52,3 +52,5 @@
 - Angular 9
 - Bootstrap
 
+## Timeline:
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/img/timeline.jpg)
