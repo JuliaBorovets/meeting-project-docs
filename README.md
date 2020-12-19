@@ -57,3 +57,10 @@
 
 ## База даних:
 ![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/er.png)
+
+## Workflow Diagrams: 
+
+#### Login/Register
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/login-register.png)
+
+#### 
