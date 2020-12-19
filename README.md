@@ -63,4 +63,8 @@
 #### Login/Register
 ![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/login-register.png)
 
-#### 
+#### Створення організації
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/create-organisation.png)
+
+#### Створення події
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/create-event.png)
