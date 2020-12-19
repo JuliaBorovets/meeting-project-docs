@@ -53,4 +53,4 @@
 - Bootstrap
 
 ## Timeline:
-![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/img/timeline.jpg)
+![alt_text](https://github.com/JuliaBorovets/meeting-project-docs/blob/main/img/timeline.jpg)
